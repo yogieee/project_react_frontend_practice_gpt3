@@ -1,3 +1,8 @@
+Here is a [Live Demo](https://project-react-frontend-practice-gpt3.vercel.app/)
+
+Practice Project - Turn Figma designs into four modern, responsive, beautifully-designed applications. 
+Thanks to Javascript Mastery (jsmastery.pro). 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
